@@ -17,7 +17,7 @@
   },
   "main": "main.js",
   "devDependencies": {
-    "grunt": "^1.4.1",
+    "grunt": "^1.2.1",
     "grunt-asar": "github:bwin/grunt-asar#update-asar",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^1.0.1",
@@ -30,8 +30,7 @@
     "grunt-replace": "^1.0.1"
   },
   "dependencies": {
-    "coffeescript": "^2.5.1",
-    "liftoff": "^3.1.0"
+    "coffeescript": "^2.5.1"
   },
   "scripts": {
     "build": "grunt",
